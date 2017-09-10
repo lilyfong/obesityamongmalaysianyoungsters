@@ -569,9 +569,6 @@ a:hover {
   color: #dfd9c6;
 }
 /* Scroll to top button*/
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 /* Others*/
 .note-check a[data-value=Rubik] {
   font-style: normal;
